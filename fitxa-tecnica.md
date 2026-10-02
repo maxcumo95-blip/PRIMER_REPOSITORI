@@ -13,7 +13,7 @@ Ordinador, disc dur, GitHub, Visual Studio Code
 
 ## Comprovacions
 
-- [ ] Afegir informació faltant
+- [x] Afegir informació faltant
 - [ ] Acabar fitxa tecnica
 - [ ] Veure el repositori amb l'historial de canvis (commits)
 
@@ -21,10 +21,10 @@ Ordinador, disc dur, GitHub, Visual Studio Code
 
 | Incidència | Solució |
 |---|---|
-| uuuuhhhhhhh    | brah |
+| hmmmm    | no ho se |
 
 ## Recursos
 
 - [Documentació consultada](https://github.com/SMX-ProjecteIntermodular/Projecte2/blob/main/activitat-2.md)
 
-
+![roc](images/rokmewing.png)
