@@ -14,14 +14,14 @@ Ordinador, disc dur, GitHub, Visual Studio Code
 ## Comprovacions
 
 - [x] Afegir informació faltant
-- [ ] Acabar fitxa tecnica
-- [ ] Veure el repositori amb l'historial de canvis (commits)
+- [x] Acabar fitxa tecnica
+- [x] Veure el repositori amb l'historial de canvis (commits)
 
 ## Incidències i solucions
 
 | Incidència | Solució |
 |---|---|
-| hmmmm    | no ho se |
+| Falta de coneixements de Git    | Activitats practiques |
 
 ## Recursos
 
